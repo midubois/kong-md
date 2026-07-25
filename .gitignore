@@ -10,7 +10,7 @@
 servroot*
 mockserver
 
-
+./claude
 
 # kong
 nginx_tmp/
